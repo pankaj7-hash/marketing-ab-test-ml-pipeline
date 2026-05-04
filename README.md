@@ -303,7 +303,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 🙋 About
 
-Built by **Pankaj** as part of an AI/ML Engineering portfolio targeting production-ready data science projects.
+Built by **Pankaj Mahure** as part of an AI/ML Engineering portfolio targeting production-ready data science projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-username)
